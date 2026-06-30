@@ -1,12 +1,6 @@
 <div align="center">
 <img width="900" height="350" align="center" src="https://cdn.dribbble.com/users/1908366/screenshots/4461835/14.gif"/>
 </div>
-<h2 align="center">Fernando, Desenvolvedor FullStack</h2>
-<h4 align="center">Sou um Desenvolvedor Full Stack com ampla experiência em projetos Freelance. Minha trajetória profissional inclui um domínio sólido de tecnologias tanto no desenvolvimento Front-End quanto no Back-End. Estou comprometido em oferecer soluções inovadoras e eficientes, adaptando-me às necessidades específicas de cada projeto e ambiente de trabalho.</h4>
-
-<hr>
-<h5>Explorar o universo da programação e do empreendedorismo é como viajar por uma galáxia cheia de estrelas de oportunidades, onde cada linha de código é um passo ao infinito.</h5>
-<hr>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yFernandoDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
